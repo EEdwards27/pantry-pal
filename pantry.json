@@ -1,0 +1,35 @@
+{
+  "items": [
+    {
+      "name": "Apples",
+      "quantity": 10,
+      "expiration": "09/23/2026"
+    },
+    {
+      "name": "Pears"
+      ,
+      "quantity": 12,
+      "expiration": "10/23/2026"
+    },
+    {
+      "name": "Jam",
+      "quantity": 2,
+      "expiration": "05/15/2029"
+    },
+    {
+      "name": "Figs",
+      "quantity": 15,
+      "expiration": "09/27/2026"
+    },
+    {
+      "name": "Bread",
+      "quantity": 1,
+      "expiration": "10/01/2026"
+    },
+    {
+      "name": "Milk",
+      "quantity": 4,
+      "expiration": "11/07/2026"
+    }
+  ]
+}
